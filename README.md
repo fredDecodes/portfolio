@@ -1,6 +1,9 @@
-# Computer Science Engineer with interest in Software, Systems, DevOps and Security.
+# Computer Science Engineer interested in Software, Systems, DevOps and Security.
+#
 # Programming Languages
 ## JavaScript, Java
+#
 # Frameworks, Libraries, Tools
-## Nodejs, Spring Boot, React, Nestjs, Flutter, Git, VS Code ...
+## Nodejs, Spring Boot, React, Expressjs, Flutter, Git, VS Code ...
+#
 ## Let's learn, collaborate and develop to build our world...
