@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">👋 Hi, I'm FREDERICK</h1>
-<h3 align="center">Backend Engineering Learner | Future CTO & Tech Leader | ALX Software Engineering Program</h3>
+<h3 align="center">Aspiring Software Engineer | Aspiring Data Analyst | Research & Development</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-blue" alt="focus"/>
