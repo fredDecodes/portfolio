@@ -34,8 +34,8 @@
   <img src="https://img.shields.io/badge/Framework-Node.js-green?style=flat&logo=node.js" alt="nodejs"/>
   <img src="https://img.shields.io/badge/Framework-Express.js-lightgrey?style=flat&logo=express" alt="express"/>
   <img src="https://img.shields.io/badge/Frontend-React-blue?style=flat&logo=react" alt="react"/>
-  <img src="https://img.shields.io/badge/Framwork-Django-green?style=flat&logo=react" alt="Django"/>
-  <img src="https://img.shields.io/badge/Framwork-Flutter-blue?style=flat&logo=react" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Framwork-Django-green?style=flat&logo=django" alt="Django"/>
+  <img src="https://img.shields.io/badge/Framwork-Flutter-blue?style=flat&logo=flutter" alt="Flutter"/>
 
   <!-- Databases -->
   <img src="https://img.shields.io/badge/Database-MySQL-orange?style=flat&logo=mysql" alt="mysql"/>
