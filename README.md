@@ -16,7 +16,7 @@
 🔹 I started with software engineering because I was fascinated with the **logic behind how systems work**.  
 🔹 I’m inspired by the **wonderful art of nature** and how it influences problem-solving in technology.  
 🔹 My long-term aim: become a **CTO, CEO of a Tech firm**, or work with the **engineering team of a Fortune 100 company**.  
-🔹 Currently, I’m enhancing my abilities by working on **open source** and **enterprise systems projects**.
+🔹 Currently, I’m enhancing my abilities by working on **open source** and **enterprise systems projects**.  
 🔹 Platform interest, **Web**, **Mobile**, **Server**, **Microservices**, and **IoT**.
 
 ---
