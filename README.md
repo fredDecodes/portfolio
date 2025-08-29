@@ -1,5 +1,5 @@
 <!-- PROFILE HEADER -->
-<h1 align="center">👋 Hi, I'm Nana Akwasi</h1>
+<h1 align="center">👋 Hi, I'm FREDERICK</h1>
 <h3 align="center">Backend Engineering Learner | Future CTO & Tech Leader | ALX Software Engineering Program</h3>
 
 <p align="center">
