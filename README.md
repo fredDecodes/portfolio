@@ -5,7 +5,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-blue" alt="focus"/>
   <img src="https://img.shields.io/badge/Learning-ALX%20SE%20Program-orange" alt="learning"/>
-  <img src="https://img.shields.io/badge/Goal-Fortune%20100%20Engineer-success" alt="goal"/>
+  <img src="https://img.shields.io/badge/Goal-Aspiring%20Software%20Engineer-success" alt="goal"/>
 </p>
 
 ---
