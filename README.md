@@ -43,8 +43,8 @@
 
   <!-- Tools -->
   <img src="https://img.shields.io/badge/Tools-Git-black?style=flat&logo=git" alt="git"/>
-  <img src="https://img.shields.io/badge/Tools-Docker-blue?style=flat&logo=docker" alt="docker"/>
-  <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=flat&logo=amazon-aws" alt="aws"/>
+  <!-- <img src="https://img.shields.io/badge/Tools-Docker-blue?style=flat&logo=docker" alt="docker"/> -->
+  <!-- <img src="https://img.shields.io/badge/Cloud-AWS-orange?style=flat&logo=amazon-aws" alt="aws"/> -->
 </p>
 
 ---
